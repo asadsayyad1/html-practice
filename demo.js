@@ -17,4 +17,4 @@ function Drive(num ){
  }
 
 }
-Drive(50)
+minAge(50)
